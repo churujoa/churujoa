@@ -1,5 +1,5 @@
-![background](https://github.com/churujoa/churujoa/assets/99636549/21e72686-131e-4bc4-a87e-a2179a635624)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHuiGyun-kim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23327FD7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![background](https://github.com/HuiGyun-kim/HuiGyun-kim/assets/99636549/21e72686-131e-4bc4-a87e-a2179a635624)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HuiGyun-kim/hit-counter&count_bg=%2379C83D&title_bg=%23327FD7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 <div align="center">
 <br/>
@@ -25,5 +25,3 @@
 <p align='center'><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=krns000"></p>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&text=&fontSize=0" width="100%"/>
- 
- 
